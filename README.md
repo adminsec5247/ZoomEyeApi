@@ -42,7 +42,7 @@ options:
   在[https://github.com/adoxa/ansicon/releases](https://github.com/adoxa/ansicon/releases)下载工具
   ![备注图片1](https://github.com/adminsec5247/ZoomEyeApi/blob/main/image/%E5%A4%87%E6%B3%A8%E5%9B%BE%E7%89%871.png "备注")
   
-  下载后解压，选择合适的版本CMD运行下面的两条命令即可
+  下载后解压，选择合适的版本，然后在CMD运行下面的两条命令即可
   
   `ansicon.exe -i`
   
